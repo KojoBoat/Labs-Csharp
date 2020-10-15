@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Turntabl": {
+      "commandName": "Project",
+      "commandLineArgs": "3"
+    }
+  }
+}

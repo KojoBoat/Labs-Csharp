@@ -1,0 +1,13 @@
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\bin\Debug\netcoreapp3.1\Turntabl.exe
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\bin\Debug\netcoreapp3.1\Turntabl.deps.json
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\bin\Debug\netcoreapp3.1\Turntabl.runtimeconfig.json
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\bin\Debug\netcoreapp3.1\Turntabl.runtimeconfig.dev.json
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\bin\Debug\netcoreapp3.1\Turntabl.dll
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\bin\Debug\netcoreapp3.1\Turntabl.pdb
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\obj\Debug\netcoreapp3.1\Turntabl.csprojAssemblyReference.cache
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\obj\Debug\netcoreapp3.1\Turntabl.AssemblyInfoInputs.cache
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\obj\Debug\netcoreapp3.1\Turntabl.AssemblyInfo.cs
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\obj\Debug\netcoreapp3.1\Turntabl.csproj.CoreCompileInputs.cache
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\obj\Debug\netcoreapp3.1\Turntabl.dll
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\obj\Debug\netcoreapp3.1\Turntabl.pdb
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl\Turntabl\obj\Debug\netcoreapp3.1\Turntabl.genruntimeconfig.cache
